@@ -10,4 +10,6 @@ Technologies:
 * Firebase
 * MongoDB 
 * Datalad and Git-Annex
+* MemSQL
 * Voice-activated querying for SQL databases
+* Writing configuration files (dotfiles)

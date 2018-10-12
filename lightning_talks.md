@@ -9,3 +9,4 @@ Talks:
 * How to create a good pull request?
 * How to do code review effectively? 
 * How to customize my shell terminal? (fish, oh-my-fish, aliases)
+* Cronjobs and database backups
