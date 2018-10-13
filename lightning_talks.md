@@ -10,3 +10,5 @@ Talks:
 * How to do code review effectively? 
 * How to customize my shell terminal? (fish, oh-my-fish, aliases)
 * Cronjobs and database backups
+* How to write Jupyter Notebooks and why they would be useful?
+

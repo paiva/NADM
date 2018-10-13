@@ -11,5 +11,7 @@ Technologies:
 * MongoDB 
 * Datalad and Git-Annex
 * MemSQL
+* Nagios and Plugins
+* GLPI
 * Voice-activated querying for SQL databases
 * Writing configuration files (dotfiles)
