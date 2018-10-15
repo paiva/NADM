@@ -2,6 +2,7 @@
 
 Talks:
 * Agile Software Development: Scrums, Sprints, and Agile
+* Practical git project management
 * Password Managers
 * How to properly do backups?
 * How to use Sketch (or Invision App) to prototype mockups?
