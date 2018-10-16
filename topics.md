@@ -15,3 +15,4 @@ Technologies:
 * GLPI
 * Voice-activated querying for SQL databases
 * Writing configuration files (dotfiles)
+* React + Redux
