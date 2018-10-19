@@ -12,4 +12,5 @@ Talks:
 * How to customize my shell terminal? (fish, oh-my-fish, aliases)
 * Cronjobs and database backups
 * How to write Jupyter Notebooks and why they would be useful?
+* Presentation slides: PowerPoint vs Keynote vs Latex vs Reveal js vs Spectacles js
 
