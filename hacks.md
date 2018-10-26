@@ -10,5 +10,6 @@ Commands:
 Tools & Applications:
 * **Typora** minimal application to write down markdown documents
 * **Yakuake** (Linux) command line drop down 
-* **Tmuxinator**
+* **Tmuxinator** (Linux) terminal with multiple split screen capabilities
+* **Omnigraffle** (Mac) diagramming and digital illustration
  

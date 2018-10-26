@@ -10,4 +10,7 @@ To explore technologies that could be incorporated in our work, discuss workflow
 
 ### Contribution
 
-To add a topic or to propose a talk, create a pull request and I will add it to the list.
+To add a topic or to propose a talk:
+* create a pull request
+* or, add a Github issue
+And I will add it to the list.
