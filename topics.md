@@ -16,3 +16,4 @@ Technologies:
 * Voice-activated querying for SQL databases
 * Writing configuration files (dotfiles)
 * React + Redux
+* Plone
