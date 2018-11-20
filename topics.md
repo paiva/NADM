@@ -17,3 +17,4 @@ Technologies:
 * Writing configuration files (dotfiles)
 * React + Redux
 * Plone
+* icinga (Server Monitoring)
